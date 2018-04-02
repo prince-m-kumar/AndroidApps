@@ -1,4 +1,4 @@
-package kumar.prince.kotlinapp
+package kumar.prince.sensors
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

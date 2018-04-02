@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">KotlinApp</string>
+    <string name="running">Running</string>
+    <string name="notification"><![CDATA[<string name=\"notification\">Max Speed : %1$s, Distance : %2$s.</string>]]></string>
+    <string name="noti_id">Speedmeterisanid</string>
 </resources>
